@@ -11,7 +11,7 @@ namespace IntelligentProgressionConfigurer
     [KSPAddon(KSPAddon.Startup.SpaceCentre, true)]
     public class ConfigurationManager : MonoBehaviour
     {
-        private readonly string saveLocation = KSPUtil.ApplicationRootPath + "/GameData/IntelligentProgression.cfg";
+        private readonly string saveLocation = KSPUtil.ApplicationRootPath + "/GameData/ContractPacks/IPContracts/IntelligentProgression.cfg";
         bool done = false;
         bool showGUI = false;
         Rect Window = new Rect(20, 100, 240, 50);
