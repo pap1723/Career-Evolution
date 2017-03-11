@@ -2,3 +2,4 @@
 *.cache
 ConfigurationPlugin/IntelligentProgressionConfigurer/bin/Debug/UnityEngine.xml
 *.txt
+ConfigurationPlugin/.vs/IntelligentProgressionConfigurer/v14/.suo

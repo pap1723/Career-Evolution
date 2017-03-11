@@ -20,7 +20,7 @@ namespace IntelligentProgressionConfigurer
         {
             if (showGUI)
             {
-                Window = GUILayout.Window(65468754, Window, GUIDisplay, "IntelligentProgression", GUILayout.Width(200));
+                Window = GUILayout.Window(73155647, Window, GUIDisplay, "IntelligentProgression", GUILayout.Width(200));
             }
         }
 
