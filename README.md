@@ -87,12 +87,14 @@ Surface Bases (with MUCH influence and code from @severedsolo great pack)
 ## WHAT ELSE DO I NEED TO KNOW?
 
 These contracts support all modpacks where the HomeWorld is the 3rd planet from the Sun. This means Stock, and stock resizes, RSS, all RSS resizes as well. This currently does NOT support Galileo's Planet Pack but I am looking at ways to remedy that.
-I HIGHLY recommend Stock with Outer Planets Mod by @CaptRobau or one of the RSS variants. The contracts are designed to take advantage of the extra planets.
-You MUST use a Unmanned first Tech Tree. These are the ones I recommend:
-Historical Progression Tech Tree by @pap1723 (me)
-Unmanned Before Manned by @Yemo
-Engineering Tech Tree by @Probus
 
-REQUIRED MODS
-Contract Configurator from @nightingale
-Module Manager
+I HIGHLY recommend Stock with Outer Planets Mod by @CaptRobau or one of the RSS variants. The contracts are designed to take advantage of the extra planets.
+
+## You MUST use a Unmanned first Tech Tree. These are the ones I recommend:
+* Historical Progression Tech Tree by @pap1723 (me)
+* Unmanned Before Manned by @Yemo
+* Engineering Tech Tree by @Probus
+
+## REQUIRED MODS
+* Contract Configurator from @nightingale
+* Module Manager
